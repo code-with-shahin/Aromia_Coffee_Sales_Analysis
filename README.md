@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project presents an interactive Power BI dashboard built for **Aromia Coffee Shop**, analyzing sales performance from **January to March 2025**.
+This project presents an interactive Power BI dashboard built for **Aromia Coffee Shop** in the UK, analyzing sales performance from **January to March 2025**.
 
 The dashboard transforms raw transactional data into business insights, allowing stakeholders to monitor revenue, sales performance, customer purchasing behavior, store performance, and product trends through interactive visualizations.
 
