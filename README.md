@@ -18,6 +18,10 @@ The dashboard transforms raw transactional data into business insights, allowing
 
 <img width="1423" height="798" alt="Product and Location" src="https://github.com/user-attachments/assets/10cc5dc5-2682-4098-8f3d-b7dd61c4bd2a" />
 
+## Interactive Dashboard
+
+aromia_revenue_dashboard.html
+
 ---
 
 # Business Objectives
