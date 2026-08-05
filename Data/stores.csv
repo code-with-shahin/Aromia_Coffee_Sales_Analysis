@@ -1,0 +1,9 @@
+store_id,store_name,city,address,open_date
+1,Aromia London - Camden,London,"15 Camden High Street, London",2020-11-02
+2,Aromia London - Shoreditch,London,"42 Old Street, London",2021-03-15
+3,Aromia London - Canary Wharf,London,"8 Canada Square, London",2022-05-20
+4,Aromia Manchester,Manchester,"23 Deansgate, Manchester",2022-01-18
+5,Aromia Birmingham,Birmingham,"10 New Street, Birmingham",2022-09-10
+6,Aromia Edinburgh,Edinburgh,"5 Princes Street, Edinburgh",2023-02-01
+7,Aromia Bristol,Bristol,"18 Park Street, Bristol",2023-06-14
+8,Aromia Leeds,Leeds,"7 Briggate, Leeds",2023-09-22

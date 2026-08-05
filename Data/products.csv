@@ -1,0 +1,24 @@
+product_id,product_name,category,price
+1,Espresso,Coffee,2.5
+2,Americano,Coffee,2.8
+3,Cappuccino,Coffee,3.2
+4,Latte,Coffee,3.4
+5,Flat White,Coffee,3.5
+6,Mocha,Coffee,3.7
+7,Cortado,Coffee,3.3
+8,Macchiato,Coffee,3.1
+9,English Breakfast Tea,Tea,2.6
+10,Earl Grey,Tea,2.6
+11,Green Tea,Tea,2.6
+12,Peppermint Tea,Tea,2.7
+13,Fruit Infusion,Tea,2.8
+14,Croissant,Bakery,2.9
+15,Cheesecake Slice,Bakery,4.5
+16,Muffin,Bakery,2.8
+17,Chocolate Cake Slice,Bakery,4.2
+18,Scone with Jam & Cream,Bakery,3.8
+19,Iced Latte,Cold Drinks,3.8
+20,Cold Brew,Cold Drinks,3.9
+21,Lemonade,Cold Drinks,3.2
+22,Milkshake,Cold Drinks,4.0
+23,Frappe,Cold Drinks,4.1
