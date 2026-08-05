@@ -91,11 +91,11 @@ Insights:
 
 The dashboard uses a relational model consisting of multiple tables.
 
-Example tables:
+Tables used:
 
 - Orders
 - Order Items
-- Customers
+- Calendar
 - Products
 - Stores
 
