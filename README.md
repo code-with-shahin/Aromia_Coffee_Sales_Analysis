@@ -20,7 +20,7 @@ The dashboard transforms raw transactional data into business insights, allowing
 
 ## Interactive Dashboard
 
-[aromia_revenue_dashboard.html](https://code-with-shahin.github.io/Aromia_Coffee_Sales_Analysis/aromia_revenue_dashboard.html)
+[aromia_revenue_dashboard.html](https://code-with-shahin.github.io/Aromia_Coffee_Sales_Analysis/Dashboard/aromia_revenue_dashboard.html)
 
 ---
 
